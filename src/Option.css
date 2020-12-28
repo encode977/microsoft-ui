@@ -1,0 +1,21 @@
+.option {
+  display: flex;
+  margin: 25px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+.option__icon {
+  color: #4395ff;
+  font-size: 30px !important;
+}
+.option__info {
+  margin-left: 15px;
+}
+.option__info > h4 {
+  color: white;
+}
+
+.option__info > p {
+  color: lightgray;
+}
