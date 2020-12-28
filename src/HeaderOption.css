@@ -1,0 +1,18 @@
+.headeroption {
+  margin-right: 50px;
+}
+
+.headerOption__icon {
+  color: white !important;
+  font-size: 25px !important;
+}
+
+.headerOption__title {
+  color: white;
+  font-weight: 500;
+}
+
+.headerOption__text {
+  color: white;
+  font-size: 12px;
+}

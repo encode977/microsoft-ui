@@ -1,0 +1,40 @@
+.header {
+  background-color: rgb(41, 40, 40);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__left {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+
+.header__leftImage {
+  height: 80px !important;
+  width: 80px !important;
+}
+
+.header__leftInfo {
+  margin-left: 5px;
+}
+
+.header__username {
+  color: white;
+}
+.header__email {
+  color: lightgray;
+}
+
+.header__manage {
+  color: #4395ff;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 100px;
+}
