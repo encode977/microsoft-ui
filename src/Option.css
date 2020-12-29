@@ -1,9 +1,10 @@
 .option {
+  height: 50px;
+  width: 250px;
   display: flex;
   margin: 25px;
-  margin-top: 20px;
-  margin-bottom: 50px;
-  margin-left: 20px;
+  margin-top: 10px;
+  margin-left: 50px;
 }
 .option__icon {
   color: #4395ff;

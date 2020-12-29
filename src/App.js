@@ -11,6 +11,9 @@ function App() {
   return (
     <div className="app">
       <Header />
+      <div className="app__search">
+        <input className="app__input" type="text" />
+      </div>
       <div className="app__body">
         <Option
           Icon={ComputerIcon}
